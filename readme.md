@@ -40,7 +40,6 @@
 
 </style>
 
-## Table with only the class specified {#table-with-only-the-class-specified}
 
 <div class="ox-hugo-table my-table">
 
