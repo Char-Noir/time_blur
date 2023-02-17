@@ -1,0 +1,17 @@
+{
+    "program.time_washout_step":10,
+    "program.amount_of_chunks":30,
+    "program.shading_pixels":30,
+    "video.file_name":"-16995.mp4",
+    "video.output_format":"mp4",
+
+
+    "images.folder": "images\\",
+    "images.subfolder.divided":"divided\\",
+    "images.subfolder.cutted":"cutted\\",
+    "images.subfolder.traced":"traced\\",
+    "images.subfolder.background":"background\\",
+    "images.subfolder.result":"result\\",
+    "video.folder": "video\\",
+    "video.result_sufix":"result"
+}
